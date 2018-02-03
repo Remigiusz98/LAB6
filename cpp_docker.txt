@@ -1,0 +1,9 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "przykladowy_program_napisany_w_jezyku_cpp" << endl;
+    return 0;
+}
